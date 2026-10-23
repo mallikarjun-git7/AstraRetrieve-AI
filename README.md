@@ -386,6 +386,6 @@ Choose a license before distributing the project. If you select the MIT License,
 
 **Project:** AstraRetrieve AI  
 **Domain:** AI Engineering · Information Retrieval · Natural Language Processing  
-**Repository:** https://github.com/YOUR_USERNAME/AstraRetrieve-AI
+**Repository:** https://github.com/mallikarjun-git7/AstraRetrieve-AI
 
 Built as a learning and engineering project to explore evidence-grounded AI systems and modern retrieval techniques.
